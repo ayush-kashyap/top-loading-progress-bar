@@ -3,6 +3,16 @@
   "version": "1.0.1",
   "description": "A loading progress bar to show loading while fetching data from server or performing any other task.",
   "main": "index.js",
+  "keywords":[
+    "loading bar",
+    "progress bar",
+    "top loading bar",
+    "top progress bar",
+    "top loading progress bar",
+    "animated progress bar",
+    "animated loading bar",
+    "animated top loading bar"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
