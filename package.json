@@ -1,6 +1,6 @@
 {
   "name": "top-loading-progress-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A loading progress bar to show loading while fetching data from server or performing any other task.",
   "main": "index.js",
   "scripts": {
